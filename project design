@@ -1,0 +1,26 @@
+In the procedure oriented era, people tend to write really long winded piece of program. I still remember the time when I was using pascal, c. 
+At that time, I tend to make a procedure or function really long winded. I even made up some tricky points which are hardly understandable even by
+myself. And the consequency is like, after a few months, I have no idea what I was writing, and it's such a pain in the ass to understand the 
+code I previously wrote.... To make matters worse, There was no comments, and the program was too long, so that even I was impatient to take 
+a look at. But, sometimes, you do need to add some more new features to your old program, but since the program was too long, too complicated, 
+too hard for people to understand, it's hard to do the update.. So I usually just end up rewriting the same program.
+
+So writing long winded program is just like, you are asking a very experienced worker to build an automobile. The worker knows 
+absoulutely everything. But industral revolution has proved that this is not a very stable way to build things. What if the experienced worker
+apply for a sick leave? What if he does not want to work for you no more. 
+
+So the basic idea is like, you just separate a program into different sub-programs. Each program is concise and robust. Let me just call 
+the sub-program the component. So a large program consists of different component. You just test each component before putting it into 
+use. And as long as each component is ok, the entire program is also ok. If you encounter a program, you can easily pinpoint the problem 
+to a certain component. Plus, you can easily update the current component, or kill the out-dated component. Each component can also be called
+by other programs or modules. That's one of the most important idea in software engineering. 
+
+What happens in the real world happends in the machine's world. In the real world, we have a factory, each worker is responsible for a 
+specific task. In the programming world, we have a program, the program consists of different sub-programs, these sub-programs or components 
+servers as workers in the factory, they are cooperate with each other. Henry Ford is a business man, he is also a programer. 
+
+Separting a large program into different sub-programs or component makes programming less stressful, you don't need to worry about polluting your
+program by adding new features in your previous long-winded program. All you need is just to add a new component, or update the existing concise
+component. The most sophysiticated machine is made from simple component. 
+
+So what you need to do is to: make the concise component great, powerful and robust. 
