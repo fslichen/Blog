@@ -1,0 +1,13 @@
+R ^ n <-> R is possible because:
+0 -> 1
+1 -> 2
+...
+8 -> 9
+9 -> 11
+and
+, -> 0
+therefore (2,3) -> 304
+that is why R^n <-> R is possbile 
+well it is true that you can do like map.put(key,value)
+but you can also put an object into a higher dimensional space like map.put(value, key1, key2, key3)
+in java the hash code mechanism makes key1, key2, key3 into a unique key. it's an implementation of R^n <-> R
