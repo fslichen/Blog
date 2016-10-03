@@ -1,0 +1,23 @@
+These days, people have been using neuron network. 
+however, the neuron network is very irrational
+take the xor problem for example,
+with sufficient data, the neuron network can actually solve the xor problem by adjusting its weights. 
+But it does not understand the logicial, it's irrational
+The most precise way to sovle the xor problem is like :
+if (x != y) {
+  return 1;
+} else {
+  return 0;
+}
+so a true learning is like, after studying the given data, the program will be able to generate the code above. 
+so a method is like, the compueter just randomly generate the code, and then make adjustment to the code with the help of the new data.
+Actually, this is how many programmers do the debuging.
+
+So the programer just "estimate" the code, and then test their program. And then use the test data to analyze and evaluate the program
+once they find a bug, they make adjustment to the code. So instead of training a neuron network, it's using data to train the code. 
+But that involves the human intellgence : data -> code -> output -> human brain -> update code -> data...
+
+being able to update the code is rational intellgence, and this process involves some logical thinking skills and some imagination as well. 
+
+still wondering what makes us humans. 
+
