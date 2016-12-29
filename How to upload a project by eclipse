@@ -1,0 +1,10 @@
+Here is how you upload a project from eclipse
+1. first thing first, disconnect from the svn.
+2. create a local folder e.g. .../git
+3. right click on your project, then select team, share project -> git
+4. you are asked to specify the local path for your git project, plug in .../git
+5. then right click on your project, right click on it, and select commit. 
+6. Then select pull and commit. Don't forget to leave a commit message. Drag those files to the commit box
+7. then you are asked to enter the path for your git repository, in this case, github.com/fslichen/Project
+8. enter the username and password
+9. you should be able to see the newly commited project on github. 
